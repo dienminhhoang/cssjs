@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/n32Tfi' target='_blank'><img src='https://3.bp.blogspot.com/-8b1YrFVslfY/WbKnz6ffA9I/AAAAAAAATL4/X43jz6St4GIYb-n01uprZMFs0lHwxOZoACLcBGAs/s320/resize.jpg' width='500px'/><br/>Chụp Hình Cưới</a>. Liên hệ: 01212 07 35 45. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/n32Tfi' target='_blank'><img src='https://3.bp.blogspot.com/-8b1YrFVslfY/WbKnz6ffA9I/AAAAAAAATL4/X43jz6St4GIYb-n01uprZMFs0lHwxOZoACLcBGAs/s320/resize.jpg' width='500px'/><br/>Quý Khách Có Nhu Cầu Chụp Hình</a>. Liên hệ: 01212 07 35 45. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
